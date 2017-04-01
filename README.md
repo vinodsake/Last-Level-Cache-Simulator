@@ -11,6 +11,8 @@
 
 ## Architecture
 
+![image](https://cloud.githubusercontent.com/assets/18235088/24574528/122d2b70-1649-11e7-991d-d6d2841e40af.png)
+
 ## Getting Started
 
 Download all the project files into your local system.
