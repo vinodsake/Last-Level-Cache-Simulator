@@ -1,6 +1,7 @@
 # Last-Level-Cache-Simulator
 
-```CURRENT STATUS : stable```
+```CURRENT STATUS : stable
+```
 
 ## Basic features
 
@@ -8,5 +9,6 @@
 * It employs a write allocate policy and uses the MESI protocol to ensure coherence.
 * The replacement policy is implemented with a true-LRU scheme.
 * The simulator was configurable in terms of cache size, block size and associativity.
+
 
 
